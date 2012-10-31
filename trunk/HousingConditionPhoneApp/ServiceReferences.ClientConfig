@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IHouseConditionService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://127.0.0.1:81/HouseConditionService.svc/soap"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IHouseConditionService"
+                contract="ServiceReference1.IHouseConditionService" name="BasicHttpBinding_IHouseConditionService" />
+        </client>
+    </system.serviceModel>
+</configuration>

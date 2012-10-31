@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="15286645-96f5-4be6-940e-3e3ba7b1f4c4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://127.0.0.1:81/HouseConditionservice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HouseConditionService.xsd" MetadataType="Schema" ID="3425b08c-2e17-43b5-906b-bb966bc526f9" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseConditionService.svc?xsd=xsd1" />
+    <MetadataFile FileName="HouseConditionService1.xsd" MetadataType="Schema" ID="822f1862-aef0-4690-b7a2-943f439397fa" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseConditionService.svc?xsd=xsd0" />
+    <MetadataFile FileName="HouseConditionService.disco" MetadataType="Disco" ID="92c22c0e-6d7d-44b1-82c5-8143ec7d5dc1" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseConditionService.svc?disco" />
+    <MetadataFile FileName="HouseConditionService.wsdl" MetadataType="Wsdl" ID="160a90b7-0eeb-47fc-88bd-513a1c4b5dc5" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseConditionService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
