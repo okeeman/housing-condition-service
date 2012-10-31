@@ -1,0 +1,5 @@
+F:\Semester 2\EAD\Mini-project\HouseConditionClient\HouseConditionClient\bin\Debug\HouseConditionClient.exe.config
+F:\Semester 2\EAD\Mini-project\HouseConditionClient\HouseConditionClient\bin\Debug\HouseConditionClient.exe
+F:\Semester 2\EAD\Mini-project\HouseConditionClient\HouseConditionClient\bin\Debug\HouseConditionClient.pdb
+F:\Semester 2\EAD\Mini-project\HouseConditionClient\HouseConditionClient\obj\x86\Debug\HouseConditionClient.exe
+F:\Semester 2\EAD\Mini-project\HouseConditionClient\HouseConditionClient\obj\x86\Debug\HouseConditionClient.pdb

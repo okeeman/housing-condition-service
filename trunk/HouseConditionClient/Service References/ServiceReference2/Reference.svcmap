@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="81493b10-8bb4-467a-839f-989d9ddb8431" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://127.255.0.0:82/houseconditionservice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HouseConditionService.xsd" MetadataType="Schema" ID="1c236d27-0cc2-4879-a641-753250c5dfc6" SourceId="1" SourceUrl="http://127.255.0.0:82/HouseConditionService.svc?xsd=xsd1" />
+    <MetadataFile FileName="HouseConditionService.disco" MetadataType="Disco" ID="d6763d7f-0c31-44de-addf-4272d4d31af4" SourceId="1" SourceUrl="http://127.255.0.0:82/HouseConditionService.svc?disco" />
+    <MetadataFile FileName="HouseConditionService1.xsd" MetadataType="Schema" ID="dc588ab6-bb70-45a2-ac28-26b582510158" SourceId="1" SourceUrl="http://127.255.0.0:82/HouseConditionService.svc?xsd=xsd0" />
+    <MetadataFile FileName="HouseConditionService.wsdl" MetadataType="Wsdl" ID="1f972ebc-36a8-4028-aba9-873e88f38840" SourceId="1" SourceUrl="http://127.255.0.0:82/HouseConditionService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
