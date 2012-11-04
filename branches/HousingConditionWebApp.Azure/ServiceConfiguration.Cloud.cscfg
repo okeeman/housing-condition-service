@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="HousingConditionWebApp.Azure" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*" schemaVersion="2012-05.1.7">
+  <Role name="HousingConditionWebApp">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=housecondition;AccountKey=A2EXqADxjLkRDGX7dF7oUxuEGzeABATJ7QhiBsklQtQ2zd+/LFAiFAlYBx1UWgikh+C/V/MdZ4sNUJ2zWqGsAg==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>
