@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3e1cfdf3-8957-4306-8771-146d199ebad4" name="admin@OKEEMAN 2012-11-19 18:46:28" runUser="okeeman\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="8771b68c-868e-498e-827c-5e386a95693f">
+    <Deployment runDeploymentRoot="admin_OKEEMAN 2012-11-19 18_46_28">
+      <DeploymentItem filename="F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\packages\NUnit.2.6.2\lib\nunit.framework.dll" />
+      <DeploymentItem filename="F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\HousingConditionWebApp\bin\HousingConditionWebApp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-11-19T18:46:28.2923008+00:00" queuing="2012-11-19T18:46:30.1019040+00:00" start="2012-11-19T18:46:30.1175040+00:00" finish="2012-11-19T18:46:34.1267111+00:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="13" executed="13" passed="11" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestDetailsView" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="a2e1f985-ee7b-62a3-f3cc-ef0dbe1784d2">
+      <Execution id="7c0b9867-2332-4f82-8211-644c064bfb61" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDetailsView" />
+    </UnitTest>
+    <UnitTest name="TestEditRedisplayEditViewIfModelInvalid" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="6f4b9289-b961-f3df-632b-c7142d970fe0">
+      <Execution id="d463252f-4196-4700-81d7-c6551f6e9997" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEditRedisplayEditViewIfModelInvalid" />
+    </UnitTest>
+    <UnitTest name="TestCreateView" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="59053fe6-ee91-4748-f8f7-5e580b606234">
+      <Execution id="e249a5c8-118e-4843-9f95-fb68d554a424" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCreateView" />
+    </UnitTest>
+    <UnitTest name="About" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="c9401cca-1d95-5a8b-fca3-083b53847b94">
+      <Execution id="81ba4f23-618b-4fc7-9b66-804b6474f9a8" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HomeControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+    <UnitTest name="TestEditView" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="4f22d8f3-9ae8-caf6-302a-2c751b24c352">
+      <Execution id="a71a9f29-9b24-4735-b081-0e238306682d" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEditView" />
+    </UnitTest>
+    <UnitTest name="TestIndexView" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="d65ef4b2-e6fd-57c2-fa57-80d264122521">
+      <Execution id="998d4f52-40d9-4aca-8c48-829b76c1f843" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIndexView" />
+    </UnitTest>
+    <UnitTest name="TestEditRedirectIfModelValid" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="93f87eff-5405-d627-3430-20853c8061e9">
+      <Execution id="c7c2507e-ec67-4a1c-9a4b-03180f913477" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEditRedirectIfModelValid" />
+    </UnitTest>
+    <UnitTest name="TestDeleteConfirmedRedirectsToIndexAction" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="e7bd7dfd-443e-eafe-3b6b-7b1cfd349f18">
+      <Execution id="cac14058-6cce-4a09-a71e-a2f6c2bf9a07" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDeleteConfirmedRedirectsToIndexAction" />
+    </UnitTest>
+    <UnitTest name="TestCreateRedirectIfModelValid" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="74294699-f3ab-cc57-2013-31ff43e6ab0f">
+      <Execution id="0013e714-0110-47c6-aefc-34d6a97d629e" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCreateRedirectIfModelValid" />
+    </UnitTest>
+    <UnitTest name="TestDeleteView" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="46188ee2-ebed-9b53-beac-aaeecba5b414">
+      <Execution id="a8e31438-3558-4a80-a39f-5eba82b8bf7a" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDeleteView" />
+    </UnitTest>
+    <UnitTest name="HomeIndexNull" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="c663d47e-ab1d-1ac9-6538-d71c98368635">
+      <Execution id="c23fe49a-c246-418b-b473-b5585afa7551" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HomeControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HomeIndexNull" />
+    </UnitTest>
+    <UnitTest name="TestCreateRedisplayCreateViewIfModelInvalid" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="0f023dbc-191e-2b4e-f184-004d0c8f416a">
+      <Execution id="d8a568f7-f251-4edb-b55c-0e0f4e4010cf" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCreateRedisplayCreateViewIfModelInvalid" />
+    </UnitTest>
+    <UnitTest name="TestDeleteConfirmedRemovesHouseFromDatabase" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="c7ca3a05-26ba-c88b-236b-e8c9dee980e8">
+      <Execution id="85cec0cf-b0dd-4c1d-b39d-2c2bb9053e07" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDeleteConfirmedRemovesHouseFromDatabase" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0f023dbc-191e-2b4e-f184-004d0c8f416a" executionId="d8a568f7-f251-4edb-b55c-0e0f4e4010cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="46188ee2-ebed-9b53-beac-aaeecba5b414" executionId="a8e31438-3558-4a80-a39f-5eba82b8bf7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f22d8f3-9ae8-caf6-302a-2c751b24c352" executionId="a71a9f29-9b24-4735-b081-0e238306682d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59053fe6-ee91-4748-f8f7-5e580b606234" executionId="e249a5c8-118e-4843-9f95-fb68d554a424" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f4b9289-b961-f3df-632b-c7142d970fe0" executionId="d463252f-4196-4700-81d7-c6551f6e9997" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="74294699-f3ab-cc57-2013-31ff43e6ab0f" executionId="0013e714-0110-47c6-aefc-34d6a97d629e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="93f87eff-5405-d627-3430-20853c8061e9" executionId="c7c2507e-ec67-4a1c-9a4b-03180f913477" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a2e1f985-ee7b-62a3-f3cc-ef0dbe1784d2" executionId="7c0b9867-2332-4f82-8211-644c064bfb61" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c663d47e-ab1d-1ac9-6538-d71c98368635" executionId="c23fe49a-c246-418b-b473-b5585afa7551" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c7ca3a05-26ba-c88b-236b-e8c9dee980e8" executionId="85cec0cf-b0dd-4c1d-b39d-2c2bb9053e07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c9401cca-1d95-5a8b-fca3-083b53847b94" executionId="81ba4f23-618b-4fc7-9b66-804b6474f9a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d65ef4b2-e6fd-57c2-fa57-80d264122521" executionId="998d4f52-40d9-4aca-8c48-829b76c1f843" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e7bd7dfd-443e-eafe-3b6b-7b1cfd349f18" executionId="cac14058-6cce-4a09-a71e-a2f6c2bf9a07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d8a568f7-f251-4edb-b55c-0e0f4e4010cf" testId="0f023dbc-191e-2b4e-f184-004d0c8f416a" testName="TestCreateRedisplayCreateViewIfModelInvalid" computerName="OKEEMAN" duration="00:00:00.1196172" startTime="2012-11-19T18:46:30.1487041+00:00" endTime="2012-11-19T18:46:30.4295046+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d8a568f7-f251-4edb-b55c-0e0f4e4010cf">
+    </UnitTestResult>
+    <UnitTestResult executionId="a8e31438-3558-4a80-a39f-5eba82b8bf7a" testId="46188ee2-ebed-9b53-beac-aaeecba5b414" testName="TestDeleteView" computerName="OKEEMAN" duration="00:00:00.5531140" startTime="2012-11-19T18:46:30.4607046+00:00" endTime="2012-11-19T18:46:31.0067056+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8e31438-3558-4a80-a39f-5eba82b8bf7a">
+    </UnitTestResult>
+    <UnitTestResult executionId="a71a9f29-9b24-4735-b081-0e238306682d" testId="4f22d8f3-9ae8-caf6-302a-2c751b24c352" testName="TestEditView" computerName="OKEEMAN" duration="00:00:00.0600664" startTime="2012-11-19T18:46:31.1939059+00:00" endTime="2012-11-19T18:46:31.2563060+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a71a9f29-9b24-4735-b081-0e238306682d">
+    </UnitTestResult>
+    <UnitTestResult executionId="e249a5c8-118e-4843-9f95-fb68d554a424" testId="59053fe6-ee91-4748-f8f7-5e580b606234" testName="TestCreateView" computerName="OKEEMAN" duration="00:00:00.0020607" startTime="2012-11-19T18:46:31.4123063+00:00" endTime="2012-11-19T18:46:31.4279063+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e249a5c8-118e-4843-9f95-fb68d554a424">
+    </UnitTestResult>
+    <UnitTestResult executionId="d463252f-4196-4700-81d7-c6551f6e9997" testId="6f4b9289-b961-f3df-632b-c7142d970fe0" testName="TestEditRedisplayEditViewIfModelInvalid" computerName="OKEEMAN" duration="00:00:00.0030075" startTime="2012-11-19T18:46:31.5683066+00:00" endTime="2012-11-19T18:46:31.5839066+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d463252f-4196-4700-81d7-c6551f6e9997">
+    </UnitTestResult>
+    <UnitTestResult executionId="0013e714-0110-47c6-aefc-34d6a97d629e" testId="74294699-f3ab-cc57-2013-31ff43e6ab0f" testName="TestCreateRedirectIfModelValid" computerName="OKEEMAN" duration="00:00:00.2205013" startTime="2012-11-19T18:46:31.6151067+00:00" endTime="2012-11-19T18:46:31.8335070+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0013e714-0110-47c6-aefc-34d6a97d629e">
+    </UnitTestResult>
+    <UnitTestResult executionId="c7c2507e-ec67-4a1c-9a4b-03180f913477" testId="93f87eff-5405-d627-3430-20853c8061e9" testName="TestEditRedirectIfModelValid" computerName="OKEEMAN" duration="00:00:00.0013987" startTime="2012-11-19T18:46:31.8647071+00:00" endTime="2012-11-19T18:46:31.8647071+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7c2507e-ec67-4a1c-9a4b-03180f913477">
+    </UnitTestResult>
+    <UnitTestResult executionId="7c0b9867-2332-4f82-8211-644c064bfb61" testId="a2e1f985-ee7b-62a3-f3cc-ef0dbe1784d2" testName="TestDetailsView" computerName="OKEEMAN" duration="00:00:00.0517724" startTime="2012-11-19T18:46:31.8959071+00:00" endTime="2012-11-19T18:46:31.9583073+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c0b9867-2332-4f82-8211-644c064bfb61">
+    </UnitTestResult>
+    <UnitTestResult executionId="c23fe49a-c246-418b-b473-b5585afa7551" testId="c663d47e-ab1d-1ac9-6538-d71c98368635" testName="HomeIndexNull" computerName="OKEEMAN" duration="00:00:00.0012060" startTime="2012-11-19T18:46:31.9739073+00:00" endTime="2012-11-19T18:46:31.9895073+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c23fe49a-c246-418b-b473-b5585afa7551">
+    </UnitTestResult>
+    <UnitTestResult executionId="85cec0cf-b0dd-4c1d-b39d-2c2bb9053e07" testId="c7ca3a05-26ba-c88b-236b-e8c9dee980e8" testName="TestDeleteConfirmedRemovesHouseFromDatabase" computerName="OKEEMAN" duration="00:00:00.1199619" startTime="2012-11-19T18:46:32.0207074+00:00" endTime="2012-11-19T18:46:32.1455076+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85cec0cf-b0dd-4c1d-b39d-2c2bb9053e07">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest.TestDeleteConfirmedRemovesHouseFromDatabase threw exception: 
+System.InvalidOperationException: Sequence contains no elements</Message>
+          <StackTrace>    at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.&lt;GetElementFunction&gt;b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source, Expression`1 predicate)
+   at HousingConditionWebApp.Controllers.HouseConditionController.DeleteConfirmed(Int32 id) in F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\HousingConditionWebApp\Controllers\HouseConditionController.cs:line 76
+   at HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest.TestDeleteConfirmedRemovesHouseFromDatabase() in F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\HousingConditionWebApp.Tests\Controllers\HouseConditionControllerTest.cs:line 171
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="81ba4f23-618b-4fc7-9b66-804b6474f9a8" testId="c9401cca-1d95-5a8b-fca3-083b53847b94" testName="About" computerName="OKEEMAN" duration="00:00:00.0002486" startTime="2012-11-19T18:46:32.1611076+00:00" endTime="2012-11-19T18:46:32.1611076+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81ba4f23-618b-4fc7-9b66-804b6474f9a8">
+    </UnitTestResult>
+    <UnitTestResult executionId="998d4f52-40d9-4aca-8c48-829b76c1f843" testId="d65ef4b2-e6fd-57c2-fa57-80d264122521" testName="TestIndexView" computerName="OKEEMAN" duration="00:00:00.0596596" startTime="2012-11-19T18:46:32.1923077+00:00" endTime="2012-11-19T18:46:32.2547078+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="998d4f52-40d9-4aca-8c48-829b76c1f843">
+    </UnitTestResult>
+    <UnitTestResult executionId="cac14058-6cce-4a09-a71e-a2f6c2bf9a07" testId="e7bd7dfd-443e-eafe-3b6b-7b1cfd349f18" testName="TestDeleteConfirmedRedirectsToIndexAction" computerName="OKEEMAN" duration="00:00:00.1039081" startTime="2012-11-19T18:46:32.2859078+00:00" endTime="2012-11-19T18:46:32.3951080+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cac14058-6cce-4a09-a71e-a2f6c2bf9a07">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest.TestDeleteConfirmedRedirectsToIndexAction threw exception: 
+System.InvalidOperationException: Sequence contains no elements</Message>
+          <StackTrace>    at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.&lt;GetElementFunction&gt;b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source, Expression`1 predicate)
+   at HousingConditionWebApp.Controllers.HouseConditionController.DeleteConfirmed(Int32 id) in F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\HousingConditionWebApp\Controllers\HouseConditionController.cs:line 76
+   at HousingConditionWebApp.Tests.Controllers.HouseConditionControllerTest.TestDeleteConfirmedRedirectsToIndexAction() in F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\HousingConditionWebApp.Tests\Controllers\HouseConditionControllerTest.cs:line 154
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

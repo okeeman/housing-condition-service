@@ -1,0 +1,41 @@
+﻿@model HousingConditionWebApp.House
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+
+    <legend>House condition details</legend>
+
+    <div style="float:left;">
+        <div class="display-label">Address</div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Address)
+        </div>
+
+        <div class="display-label">Repairs required?</div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Repairs) 
+        </div>
+
+        <div class="display-label">Cost</div>
+        <div class="display-field">
+            €@Html.DisplayFor(model => model.Cost)
+        </div>
+
+        @using (Html.BeginForm())
+        {
+        <p>
+            <input type="submit" value="Delete" /> |
+                @Html.ActionLink("Back to List", "Index")
+        </p>
+        }
+    </div>
+
+    <img src="../../Content/themes/base/images/house.gif" alt="azure" style="float:right;" />
+
+</fieldset>

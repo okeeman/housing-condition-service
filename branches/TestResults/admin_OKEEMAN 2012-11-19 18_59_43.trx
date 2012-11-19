@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a197ad7a-5faa-4169-92e5-840401e4cf84" name="admin@OKEEMAN 2012-11-19 18:59:43" runUser="okeeman\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="61eb9c4a-4b39-496f-9cb9-885922eb32dd">
+    <Deployment runDeploymentRoot="admin_OKEEMAN 2012-11-19 18_59_43">
+      <DeploymentItem filename="F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\packages\NUnit.2.6.2\lib\nunit.framework.dll" />
+      <DeploymentItem filename="F:\Semester 2\EAD\Mini-project\HousingConditionWebAppOriginal\HousingConditionWebApp\bin\HousingConditionWebApp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-11-19T18:59:43.1768884+00:00" queuing="2012-11-19T18:59:45.1268919+00:00" start="2012-11-19T18:59:45.1268919+00:00" finish="2012-11-19T18:59:46.0160934+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetTotalCosts" storage="f:\semester 2\ead\mini-project\housingconditionwebapporiginal\housingconditionwebapp.tests\bin\debug\housingconditionwebapp.tests.dll" id="7a3efe33-1fa9-94eb-2bfb-4467d6ae14b8">
+      <Execution id="16db6f57-d553-449d-96a0-7f3e986f1da8" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HousingConditionWebAppOriginal/HousingConditionWebApp.Tests/bin/Debug/HousingConditionWebApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HousingConditionWebApp.Tests.ServiceLogicTest, HousingConditionWebApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetTotalCosts" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7a3efe33-1fa9-94eb-2bfb-4467d6ae14b8" executionId="16db6f57-d553-449d-96a0-7f3e986f1da8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="16db6f57-d553-449d-96a0-7f3e986f1da8" testId="7a3efe33-1fa9-94eb-2bfb-4467d6ae14b8" testName="TestGetTotalCosts" computerName="OKEEMAN" duration="00:00:00.4237419" startTime="2012-11-19T18:59:45.1580919+00:00" endTime="2012-11-19T18:59:45.7664930+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16db6f57-d553-449d-96a0-7f3e986f1da8">
+    </UnitTestResult>
+  </Results>
+</TestRun>

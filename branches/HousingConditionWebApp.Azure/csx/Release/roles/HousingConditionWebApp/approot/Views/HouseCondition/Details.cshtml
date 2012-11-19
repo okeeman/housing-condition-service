@@ -1,0 +1,30 @@
+﻿@model HousingConditionWebApp.House
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>House</legend>
+
+    <div class="display-label">Address</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Address)
+    </div>
+
+    <div class="display-label">Repairs</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Repairs)
+    </div>
+
+    <div class="display-label">Cost</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Cost)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
