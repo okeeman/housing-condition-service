@@ -1,0 +1,8 @@
+F:\Semester 2\EAD\EAD MVC CA\HouseConditionConsoleClient\HouseConditionConsoleClient\bin\Debug\HouseConditionConsoleClient.exe.config
+F:\Semester 2\EAD\EAD MVC CA\HouseConditionConsoleClient\HouseConditionConsoleClient\bin\Debug\HouseConditionConsoleClient.exe
+F:\Semester 2\EAD\EAD MVC CA\HouseConditionConsoleClient\HouseConditionConsoleClient\bin\Debug\HouseConditionConsoleClient.pdb
+F:\Semester 2\EAD\EAD MVC CA\HouseConditionConsoleClient\HouseConditionConsoleClient\obj\x86\Debug\HouseConditionConsoleClient.exe
+F:\Semester 2\EAD\EAD MVC CA\HouseConditionConsoleClient\HouseConditionConsoleClient\obj\x86\Debug\HouseConditionConsoleClient.pdb
+F:\Semester 2\EAD\Mini-project\HouseConditionConsoleClient\HouseConditionConsoleClient\bin\Debug\HouseConditionConsoleClient.exe.config
+F:\Semester 2\EAD\Mini-project\HouseConditionConsoleClient\HouseConditionConsoleClient\obj\x86\Debug\HouseConditionConsoleClient.exe
+F:\Semester 2\EAD\Mini-project\HouseConditionConsoleClient\HouseConditionConsoleClient\obj\x86\Debug\HouseConditionConsoleClient.pdb

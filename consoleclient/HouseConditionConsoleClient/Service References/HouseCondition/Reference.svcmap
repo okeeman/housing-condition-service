@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cda054c2-72be-413f-82bc-d823d9aac8c3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://127.0.0.1:81/HouseCondition.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HouseCondition.xsd" MetadataType="Schema" ID="a67b82e9-be10-4103-a9cd-9a714d3941c9" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseCondition.svc?xsd=xsd0" />
+    <MetadataFile FileName="HouseCondition1.xsd" MetadataType="Schema" ID="e51437d7-06fa-4bfa-b90f-c3ee5adf86c0" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseCondition.svc?xsd=xsd1" />
+    <MetadataFile FileName="HouseCondition.disco" MetadataType="Disco" ID="0c68d23a-75c2-43aa-b1dd-430aa8dcb2a3" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseCondition.svc?disco" />
+    <MetadataFile FileName="HouseCondition.wsdl" MetadataType="Wsdl" ID="221fee2d-86f9-479b-b254-fc7c75fd684e" SourceId="1" SourceUrl="http://127.0.0.1:81/HouseCondition.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
