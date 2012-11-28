@@ -1,0 +1,11 @@
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\ServiceTests.dll.config
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\ServiceTests.dll
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\ServiceTests.pdb
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\WCFServiceWebRole1.dll
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\WCFServiceWebRole1.pdb
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\obj\Debug\ServiceTests.csprojResolveAssemblyReference.cache
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\obj\Debug\ServiceTests.dll
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\obj\Debug\ServiceTests.pdb

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "HouseConditionWebService", "HouseConditionWebService\HouseConditionWebService.ccproj", "{B57C1824-F782-4CBA-992C-9C793CFBBFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{AFE5CB23-8161-4BAA-962F-E5C3B6707832}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA3C1AFD-8B5F-4528-AC7B-27D86FF8FBA3}"
+	ProjectSection(SolutionItems) = preProject
+		HouseConditionWebService.vsmdi = HouseConditionWebService.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTests", "ServiceTests\ServiceTests.csproj", "{895C728B-F81F-4D0E-9E3A-617121842D8C}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = HouseConditionWebService.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57C1824-F782-4CBA-992C-9C793CFBBFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57C1824-F782-4CBA-992C-9C793CFBBFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57C1824-F782-4CBA-992C-9C793CFBBFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57C1824-F782-4CBA-992C-9C793CFBBFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE5CB23-8161-4BAA-962F-E5C3B6707832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE5CB23-8161-4BAA-962F-E5C3B6707832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE5CB23-8161-4BAA-962F-E5C3B6707832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE5CB23-8161-4BAA-962F-E5C3B6707832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895C728B-F81F-4D0E-9E3A-617121842D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895C728B-F81F-4D0E-9E3A-617121842D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895C728B-F81F-4D0E-9E3A-617121842D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895C728B-F81F-4D0E-9E3A-617121842D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
