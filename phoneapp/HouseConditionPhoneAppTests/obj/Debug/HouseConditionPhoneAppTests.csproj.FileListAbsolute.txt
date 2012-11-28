@@ -1,0 +1,5 @@
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HouseConditionPhoneAppTests\bin\Debug\HouseConditionPhoneAppTests.dll
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HouseConditionPhoneAppTests\bin\Debug\HouseConditionPhoneAppTests.pdb
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HouseConditionPhoneAppTests\obj\Debug\HouseConditionPhoneAppTests.csprojResolveAssemblyReference.cache
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HouseConditionPhoneAppTests\obj\Debug\HouseConditionPhoneAppTests.dll
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HouseConditionPhoneAppTests\obj\Debug\HouseConditionPhoneAppTests.pdb

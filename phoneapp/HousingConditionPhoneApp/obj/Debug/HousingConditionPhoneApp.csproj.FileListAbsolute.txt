@@ -1,0 +1,12 @@
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\Bin\Debug\HousingConditionPhoneApp.dll
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\Bin\Debug\HousingConditionPhoneApp.pdb
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\obj\Debug\App.g.i.cs
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\obj\Debug\MainPage.g.i.cs
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\obj\Debug\HousingConditionPhoneApp.g.resources
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\obj\Debug\HousingConditionPhoneApp.dll
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\obj\Debug\HousingConditionPhoneApp.pdb
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\Bin\Debug\AppManifest.xaml
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\Bin\Debug\HousingConditionPhoneApp.xap
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\obj\Debug\XapCacheFile.xml
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\Bin\Debug\originalApplicationIcon.png
+F:\Semester 2\EAD\Mini-project\HousingConditionPhoneApp\HousingConditionPhoneApp\Bin\Debug\originalBackground.png

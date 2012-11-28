@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e421b2dc-c16a-4a35-94bc-4a9392541065" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://housingcondition.cloudapp.net/HouseCondition.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HouseCondition.wsdl" MetadataType="Wsdl" ID="b5d659e6-5701-455a-bd15-8b8144385397" SourceId="1" SourceUrl="http://housingcondition.cloudapp.net/HouseCondition.svc?wsdl" />
+    <MetadataFile FileName="HouseCondition.xsd" MetadataType="Schema" ID="8dd21871-0a49-4546-85ab-e9f86f338899" SourceId="1" SourceUrl="http://housingcondition.cloudapp.net/HouseCondition.svc?xsd=xsd0" />
+    <MetadataFile FileName="HouseCondition.disco" MetadataType="Disco" ID="fa8d33f6-1451-4e50-8380-fa5a156af723" SourceId="1" SourceUrl="http://housingcondition.cloudapp.net/HouseCondition.svc?disco" />
+    <MetadataFile FileName="HouseCondition1.xsd" MetadataType="Schema" ID="53efe438-b6a1-4298-8d6b-36dd2e9c4fbe" SourceId="1" SourceUrl="http://housingcondition.cloudapp.net/HouseCondition.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
