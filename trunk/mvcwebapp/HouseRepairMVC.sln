@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRepairMVC", "HouseRepairMVC\HouseRepairMVC.csproj", "{79C98098-C806-42FA-9A15-A9EAB17946E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRepairMVC.Tests", "HouseRepairMVC.Tests\HouseRepairMVC.Tests.csproj", "{94D4F95E-FBAD-4A08-86B4-264D55B37FF5}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "HouseRepairMVC.Azure", "HouseRepairMVC.Azure\HouseRepairMVC.Azure.ccproj", "{63ED75A8-98DE-4521-B10D-9D90321DCE06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C98098-C806-42FA-9A15-A9EAB17946E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C98098-C806-42FA-9A15-A9EAB17946E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C98098-C806-42FA-9A15-A9EAB17946E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C98098-C806-42FA-9A15-A9EAB17946E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D4F95E-FBAD-4A08-86B4-264D55B37FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D4F95E-FBAD-4A08-86B4-264D55B37FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D4F95E-FBAD-4A08-86B4-264D55B37FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D4F95E-FBAD-4A08-86B4-264D55B37FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63ED75A8-98DE-4521-B10D-9D90321DCE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ED75A8-98DE-4521-B10D-9D90321DCE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ED75A8-98DE-4521-B10D-9D90321DCE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ED75A8-98DE-4521-B10D-9D90321DCE06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

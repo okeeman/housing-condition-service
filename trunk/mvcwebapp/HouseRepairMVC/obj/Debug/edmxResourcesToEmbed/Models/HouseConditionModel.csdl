@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HouseConditionModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="HouseConditionEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Houses" EntityType="HouseConditionModel.House" />
+  </EntityContainer>
+  <EntityType Name="House">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Address" Type="String" Nullable="false" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="Repairs" Type="Boolean" Nullable="false" />
+    <Property Name="Cost" Type="Decimal" Precision="10" Scale="4" />
+  </EntityType>
+</Schema>
