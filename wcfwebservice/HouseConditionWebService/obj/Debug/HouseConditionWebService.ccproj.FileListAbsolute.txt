@@ -1,0 +1,1 @@
+F:\Semester 2\EAD\Mini-project\HouseConditionWebService\HouseConditionWebService\bin\Debug\ServiceConfiguration.cscfg

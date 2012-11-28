@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="784642fa-e382-4502-afe1-01114257c53c" name="admin@OKEEMAN 2012-11-28 19:13:54" runUser="okeeman\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="af77a27a-7320-49d3-8ccd-a1b214ac323c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_OKEEMAN 2012-11-28 19_13_54">
+      <DeploymentItem filename="F:\Semester 2\EAD\Mini-project\HouseConditionWebService\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-11-28T19:13:54.5322852+00:00" queuing="2012-11-28T19:13:54.5946854+00:00" start="2012-11-28T19:13:54.6102854+00:00" finish="2012-11-28T19:14:01.9578983+00:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetTotalCosts" storage="f:\semester 2\ead\mini-project\houseconditionwebservice\servicetests\bin\debug\servicetests.dll" id="fe5c54ca-1231-9c32-3914-1e8bec201fe7">
+      <Execution id="d0009f6f-e4ed-4001-93ac-e3bb909a7f31" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseConditionWebService/ServiceTests/bin/Debug/ServiceTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ServiceTests.ServiceIntegrationTest, ServiceTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetTotalCosts" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fe5c54ca-1231-9c32-3914-1e8bec201fe7" executionId="d0009f6f-e4ed-4001-93ac-e3bb909a7f31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d0009f6f-e4ed-4001-93ac-e3bb909a7f31" testId="fe5c54ca-1231-9c32-3914-1e8bec201fe7" testName="TestGetTotalCosts" computerName="OKEEMAN" duration="00:00:05.3920044" startTime="2012-11-28T19:13:54.6414854+00:00" endTime="2012-11-28T19:14:00.2106952+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0009f6f-e4ed-4001-93ac-e3bb909a7f31">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;291502&gt;. Actual:&lt;261505.0000&gt;. </Message>
+          <StackTrace>   at ServiceTests.ServiceIntegrationTest.TestGetTotalCosts() in F:\Semester 2\EAD\Mini-project\HouseConditionWebService\ServiceTests\ServiceIntegrationTest.cs:line 22
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
