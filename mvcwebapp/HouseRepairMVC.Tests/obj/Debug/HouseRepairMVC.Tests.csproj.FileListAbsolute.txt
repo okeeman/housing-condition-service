@@ -1,0 +1,8 @@
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\bin\Debug\HouseRepairMVC.Tests.dll.config
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\bin\Debug\HouseRepairMVC.Tests.dll
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\bin\Debug\HouseRepairMVC.Tests.pdb
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\bin\Debug\HouseRepairMVC.dll
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\bin\Debug\HouseRepairMVC.pdb
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\obj\Debug\HouseRepairMVC.Tests.csprojResolveAssemblyReference.cache
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\obj\Debug\HouseRepairMVC.Tests.dll
+F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\obj\Debug\HouseRepairMVC.Tests.pdb

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="50976cc2-124a-4fd3-81b3-0497b2afc62c" name="admin@OKEEMAN 2012-11-28 16:41:13" runUser="okeeman\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="f9fb1aff-986c-4ecb-839c-0216d811ae50">
+    <Deployment runDeploymentRoot="admin_OKEEMAN 2012-11-28 16_41_13">
+      <DeploymentItem filename="F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC\bin\HouseRepairMVC.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-11-28T16:41:13.8421536+00:00" queuing="2012-11-28T16:41:14.3021542+00:00" start="2012-11-28T16:41:14.3121542+00:00" finish="2012-11-28T16:41:18.8721606+00:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="16" executed="16" passed="15" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestEditRedirectIfModelValid" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="bc9bf212-b06c-8dd9-eaa4-58eb8a066a7f">
+      <Execution id="dd2b3b4b-c262-4649-b9f6-aae274408205" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEditRedirectIfModelValid" />
+    </UnitTest>
+    <UnitTest name="Index" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="6829e5cc-1fc8-e53d-80b6-0f40a3e97825">
+      <Execution id="7ab3c573-7f45-4af5-8de0-6f155a46f9dd" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HomeControllerTest, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="TestIndexView" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="85f3993f-0771-4488-53a0-74e4c57830d2">
+      <Execution id="ffa1c30e-0ad5-47df-b5d4-1a11e8b61c52" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIndexView" />
+    </UnitTest>
+    <UnitTest name="TestCreateView" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="60d76e45-31a2-a9a8-fb86-ea985b4e34fc">
+      <Execution id="add75a90-06a4-4cbd-b17b-f470398d74ce" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCreateView" />
+    </UnitTest>
+    <UnitTest name="TestEditRedisplayEditViewIfModelInvalid" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="931d3e6c-d471-539b-7d5d-4bb6d53562d1">
+      <Execution id="ddfc5691-d317-4be6-becb-4bb57754c90b" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEditRedisplayEditViewIfModelInvalid" />
+    </UnitTest>
+    <UnitTest name="TestHomeIndexRedirect" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="52dd4e3b-f996-d5e5-ae51-7ff764544940">
+      <Execution id="b03f5fd1-ebd1-4028-b5ff-4fd10a27dd0c" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HomeControllerTest, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestHomeIndexRedirect" />
+    </UnitTest>
+    <UnitTest name="TestDeleteConfirmedRemovesHouseFromDatabase" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="27f83c98-628f-bb79-faa3-2de0485b9b50">
+      <Execution id="5029e617-c62a-40a3-aa29-3c9399ecac10" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDeleteConfirmedRemovesHouseFromDatabase" />
+    </UnitTest>
+    <UnitTest name="TestDeleteView" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="134691e7-19af-8039-a18e-6b4af1a20f51">
+      <Execution id="d497f0b0-a0a5-44be-b250-cf4ff93d1029" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDeleteView" />
+    </UnitTest>
+    <UnitTest name="TestCreateActionHouseNotAddedToDatabaseIfModelInvalid" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="7c816927-a580-4efe-72f6-a3d2ec27cd30">
+      <Execution id="b0c9b5d0-f5e3-4460-b163-9f2f647bbb70" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCreateActionHouseNotAddedToDatabaseIfModelInvalid" />
+    </UnitTest>
+    <UnitTest name="About" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="9c5968b1-dbee-0b3e-d0c2-b88492dd3d9c">
+      <Execution id="d3aa93ca-9346-4816-8f3f-49b51d25435b" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HomeControllerTest, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+    <UnitTest name="TestDetailsView" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="8af38eb0-da42-d551-85c6-f0f409cc32a6">
+      <Execution id="e2652d14-e4d1-4d94-8a7b-68bd107f9f15" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDetailsView" />
+    </UnitTest>
+    <UnitTest name="TestDetailsReturnCorrectData" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="dba901b2-3905-de9c-b4c4-fbcfba89d9fc">
+      <Execution id="acef3ac3-4e65-4566-8d59-a9809d54d58f" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDetailsReturnCorrectData" />
+    </UnitTest>
+    <UnitTest name="TestCreateRedisplayCreateViewIfModelInvalid" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="c973b8ea-710a-c3ae-c4ac-c44bc3cccc32">
+      <Execution id="2ff3feee-300e-4855-b021-886136b2f300" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCreateRedisplayCreateViewIfModelInvalid" />
+    </UnitTest>
+    <UnitTest name="TestEditView" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="b90048fb-5405-1cba-f732-3eb6b0619f71">
+      <Execution id="babeb094-83bc-41ad-b6c8-340b18906e8d" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEditView" />
+    </UnitTest>
+    <UnitTest name="TestDeleteConfirmedRedirectsToIndexAction" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="154cd9ee-0227-e59e-ddc3-ac9d77e93cc8">
+      <Execution id="9715c7c0-89f2-4623-99c8-67df98a6d47d" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDeleteConfirmedRedirectsToIndexAction" />
+    </UnitTest>
+    <UnitTest name="TestCreateRedirectIfModelValid" storage="f:\semester 2\ead\mini-project\houserepairmvc\houserepairmvc.tests\bin\debug\houserepairmvc.tests.dll" id="e6df8fff-0208-e378-f87f-164c4833fc2a">
+      <Execution id="f597c785-82c0-4775-a608-642db782ae7f" />
+      <TestMethod codeBase="F:/Semester 2/EAD/Mini-project/HouseRepairMVC/HouseRepairMVC.Tests/bin/Debug/HouseRepairMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests, HouseRepairMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCreateRedirectIfModelValid" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="134691e7-19af-8039-a18e-6b4af1a20f51" executionId="d497f0b0-a0a5-44be-b250-cf4ff93d1029" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="154cd9ee-0227-e59e-ddc3-ac9d77e93cc8" executionId="9715c7c0-89f2-4623-99c8-67df98a6d47d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="27f83c98-628f-bb79-faa3-2de0485b9b50" executionId="5029e617-c62a-40a3-aa29-3c9399ecac10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52dd4e3b-f996-d5e5-ae51-7ff764544940" executionId="b03f5fd1-ebd1-4028-b5ff-4fd10a27dd0c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="60d76e45-31a2-a9a8-fb86-ea985b4e34fc" executionId="add75a90-06a4-4cbd-b17b-f470398d74ce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6829e5cc-1fc8-e53d-80b6-0f40a3e97825" executionId="7ab3c573-7f45-4af5-8de0-6f155a46f9dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c816927-a580-4efe-72f6-a3d2ec27cd30" executionId="b0c9b5d0-f5e3-4460-b163-9f2f647bbb70" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="85f3993f-0771-4488-53a0-74e4c57830d2" executionId="ffa1c30e-0ad5-47df-b5d4-1a11e8b61c52" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8af38eb0-da42-d551-85c6-f0f409cc32a6" executionId="e2652d14-e4d1-4d94-8a7b-68bd107f9f15" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="931d3e6c-d471-539b-7d5d-4bb6d53562d1" executionId="ddfc5691-d317-4be6-becb-4bb57754c90b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9c5968b1-dbee-0b3e-d0c2-b88492dd3d9c" executionId="d3aa93ca-9346-4816-8f3f-49b51d25435b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b90048fb-5405-1cba-f732-3eb6b0619f71" executionId="babeb094-83bc-41ad-b6c8-340b18906e8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc9bf212-b06c-8dd9-eaa4-58eb8a066a7f" executionId="dd2b3b4b-c262-4649-b9f6-aae274408205" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c973b8ea-710a-c3ae-c4ac-c44bc3cccc32" executionId="2ff3feee-300e-4855-b021-886136b2f300" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dba901b2-3905-de9c-b4c4-fbcfba89d9fc" executionId="acef3ac3-4e65-4566-8d59-a9809d54d58f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e6df8fff-0208-e378-f87f-164c4833fc2a" executionId="f597c785-82c0-4775-a608-642db782ae7f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d497f0b0-a0a5-44be-b250-cf4ff93d1029" testId="134691e7-19af-8039-a18e-6b4af1a20f51" testName="TestDeleteView" computerName="OKEEMAN" duration="00:00:00.5729016" startTime="2012-11-28T16:41:14.3621543+00:00" endTime="2012-11-28T16:41:15.1021553+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d497f0b0-a0a5-44be-b250-cf4ff93d1029">
+    </UnitTestResult>
+    <UnitTestResult executionId="9715c7c0-89f2-4623-99c8-67df98a6d47d" testId="154cd9ee-0227-e59e-ddc3-ac9d77e93cc8" testName="TestDeleteConfirmedRedirectsToIndexAction" computerName="OKEEMAN" duration="00:00:00.3379937" startTime="2012-11-28T16:41:15.1821555+00:00" endTime="2012-11-28T16:41:15.5221559+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9715c7c0-89f2-4623-99c8-67df98a6d47d">
+    </UnitTestResult>
+    <UnitTestResult executionId="5029e617-c62a-40a3-aa29-3c9399ecac10" testId="27f83c98-628f-bb79-faa3-2de0485b9b50" testName="TestDeleteConfirmedRemovesHouseFromDatabase" computerName="OKEEMAN" duration="00:00:00.4198213" startTime="2012-11-28T16:41:15.5521560+00:00" endTime="2012-11-28T16:41:15.9721566+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5029e617-c62a-40a3-aa29-3c9399ecac10">
+    </UnitTestResult>
+    <UnitTestResult executionId="b03f5fd1-ebd1-4028-b5ff-4fd10a27dd0c" testId="52dd4e3b-f996-d5e5-ae51-7ff764544940" testName="TestHomeIndexRedirect" computerName="OKEEMAN" duration="00:00:00.0040681" startTime="2012-11-28T16:41:16.1521568+00:00" endTime="2012-11-28T16:41:16.1721568+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b03f5fd1-ebd1-4028-b5ff-4fd10a27dd0c">
+    </UnitTestResult>
+    <UnitTestResult executionId="add75a90-06a4-4cbd-b17b-f470398d74ce" testId="60d76e45-31a2-a9a8-fb86-ea985b4e34fc" testName="TestCreateView" computerName="OKEEMAN" duration="00:00:00.0013876" startTime="2012-11-28T16:41:16.3321571+00:00" endTime="2012-11-28T16:41:16.3421571+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="add75a90-06a4-4cbd-b17b-f470398d74ce">
+    </UnitTestResult>
+    <UnitTestResult executionId="7ab3c573-7f45-4af5-8de0-6f155a46f9dd" testId="6829e5cc-1fc8-e53d-80b6-0f40a3e97825" testName="Index" computerName="OKEEMAN" duration="00:00:00.0014690" startTime="2012-11-28T16:41:16.5121573+00:00" endTime="2012-11-28T16:41:16.5321573+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ab3c573-7f45-4af5-8de0-6f155a46f9dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="b0c9b5d0-f5e3-4460-b163-9f2f647bbb70" testId="7c816927-a580-4efe-72f6-a3d2ec27cd30" testName="TestCreateActionHouseNotAddedToDatabaseIfModelInvalid" computerName="OKEEMAN" duration="00:00:00.1045869" startTime="2012-11-28T16:41:16.6521575+00:00" endTime="2012-11-28T16:41:16.8021577+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b0c9b5d0-f5e3-4460-b163-9f2f647bbb70">
+    </UnitTestResult>
+    <UnitTestResult executionId="ffa1c30e-0ad5-47df-b5d4-1a11e8b61c52" testId="85f3993f-0771-4488-53a0-74e4c57830d2" testName="TestIndexView" computerName="OKEEMAN" duration="00:00:00.0612162" startTime="2012-11-28T16:41:16.8321578+00:00" endTime="2012-11-28T16:41:16.9021579+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ffa1c30e-0ad5-47df-b5d4-1a11e8b61c52">
+    </UnitTestResult>
+    <UnitTestResult executionId="e2652d14-e4d1-4d94-8a7b-68bd107f9f15" testId="8af38eb0-da42-d551-85c6-f0f409cc32a6" testName="TestDetailsView" computerName="OKEEMAN" duration="00:00:00.0546279" startTime="2012-11-28T16:41:16.9521579+00:00" endTime="2012-11-28T16:41:17.0221580+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e2652d14-e4d1-4d94-8a7b-68bd107f9f15">
+    </UnitTestResult>
+    <UnitTestResult executionId="ddfc5691-d317-4be6-becb-4bb57754c90b" testId="931d3e6c-d471-539b-7d5d-4bb6d53562d1" testName="TestEditRedisplayEditViewIfModelInvalid" computerName="OKEEMAN" duration="00:00:00.0207983" startTime="2012-11-28T16:41:17.0421581+00:00" endTime="2012-11-28T16:41:17.0621581+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ddfc5691-d317-4be6-becb-4bb57754c90b">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests.TestEditRedisplayEditViewIfModelInvalid threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at HouseRepairMVC.Controllers.HouseConditionController.Edit(House house) in F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC\Controllers\HouseConditionController.cs:line 97
+   at HouseRepairMVC.Tests.Controllers.HouseConditionControllerIntegrationTests.TestEditRedisplayEditViewIfModelInvalid() in F:\Semester 2\EAD\Mini-project\HouseRepairMVC\HouseRepairMVC.Tests\Controllers\HouseConditionControllerIntegrationTests.cs:line 162
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d3aa93ca-9346-4816-8f3f-49b51d25435b" testId="9c5968b1-dbee-0b3e-d0c2-b88492dd3d9c" testName="About" computerName="OKEEMAN" duration="00:00:00.0010026" startTime="2012-11-28T16:41:17.0821581+00:00" endTime="2012-11-28T16:41:17.0821581+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3aa93ca-9346-4816-8f3f-49b51d25435b">
+    </UnitTestResult>
+    <UnitTestResult executionId="babeb094-83bc-41ad-b6c8-340b18906e8d" testId="b90048fb-5405-1cba-f732-3eb6b0619f71" testName="TestEditView" computerName="OKEEMAN" duration="00:00:00.0606158" startTime="2012-11-28T16:41:17.1021581+00:00" endTime="2012-11-28T16:41:17.1721582+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="babeb094-83bc-41ad-b6c8-340b18906e8d">
+    </UnitTestResult>
+    <UnitTestResult executionId="dd2b3b4b-c262-4649-b9f6-aae274408205" testId="bc9bf212-b06c-8dd9-eaa4-58eb8a066a7f" testName="TestEditRedirectIfModelValid" computerName="OKEEMAN" duration="00:00:00.4685349" startTime="2012-11-28T16:41:17.1921583+00:00" endTime="2012-11-28T16:41:17.6721589+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd2b3b4b-c262-4649-b9f6-aae274408205">
+    </UnitTestResult>
+    <UnitTestResult executionId="2ff3feee-300e-4855-b021-886136b2f300" testId="c973b8ea-710a-c3ae-c4ac-c44bc3cccc32" testName="TestCreateRedisplayCreateViewIfModelInvalid" computerName="OKEEMAN" duration="00:00:00.0521291" startTime="2012-11-28T16:41:17.8621592+00:00" endTime="2012-11-28T16:41:17.9221593+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2ff3feee-300e-4855-b021-886136b2f300">
+    </UnitTestResult>
+    <UnitTestResult executionId="acef3ac3-4e65-4566-8d59-a9809d54d58f" testId="dba901b2-3905-de9c-b4c4-fbcfba89d9fc" testName="TestDetailsReturnCorrectData" computerName="OKEEMAN" duration="00:00:00.0495826" startTime="2012-11-28T16:41:18.0721595+00:00" endTime="2012-11-28T16:41:18.1321596+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="acef3ac3-4e65-4566-8d59-a9809d54d58f">
+    </UnitTestResult>
+    <UnitTestResult executionId="f597c785-82c0-4775-a608-642db782ae7f" testId="e6df8fff-0208-e378-f87f-164c4833fc2a" testName="TestCreateRedirectIfModelValid" computerName="OKEEMAN" duration="00:00:00.4033306" startTime="2012-11-28T16:41:18.2821598+00:00" endTime="2012-11-28T16:41:18.6921604+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f597c785-82c0-4775-a608-642db782ae7f">
+    </UnitTestResult>
+  </Results>
+</TestRun>

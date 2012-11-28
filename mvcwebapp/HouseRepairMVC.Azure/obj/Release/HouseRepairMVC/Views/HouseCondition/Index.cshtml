@@ -1,0 +1,50 @@
+﻿@model IEnumerable<HouseRepairMVC.Models.House>
+
+@{
+    ViewBag.Title = "House list";
+}
+
+<h2>House list</h2>
+
+<p>
+    @Html.ActionLink("Add new House Condition report", "Create")
+</p>
+
+<table>
+    <tr>
+        <th>
+            Address
+        </th>
+        <th>
+            Repairs required?
+        </th>
+        <th>
+            Cost
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Repairs) 
+        </td>
+        <td>
+           €@Html.DisplayFor(modelItem => item.Cost)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+        </td>
+    </tr>
+}
+
+</table>
+
+
+
+
