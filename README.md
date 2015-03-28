@@ -13,7 +13,7 @@ This project consists of 4 solutions in total:
 
 4. Windows console client
 
-The application is meant to be used by local authorities who would send inspectors to survey houses and record the cost of repairs needed, if any. The MVC app and WCF Web service are hosted on Windows Azure and are linked to a SQL Database also hosted on Azure:
+The application is meant to be used by local authorities who would send inspectors to survey houses and record the cost of repairs needed, if any. The MVC app and WCF Web service were hosted on Windows Azure and were linked to a SQL Database also hosted on Azure. The sites are no longer active.
 
 http://housecondition.cloudapp.net/
 
